@@ -1,0 +1,16 @@
+C:\Users\q\Documents\Visual Studio 2010\Projects\Battle Monkeys\bin\Release\Battle Monkeys.exe
+C:\Users\q\Documents\Visual Studio 2010\Projects\Battle Monkeys\bin\Release\Battle Monkeys.pdb
+C:\Users\q\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Release\Battle_Monkeys.menu.resources
+C:\Users\q\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Release\Battle_Monkeys.mainScreen.resources
+C:\Users\q\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Release\Battle_Monkeys.Properties.Resources.resources
+C:\Users\q\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Release\Battle Monkeys.csproj.GenerateResource.Cache
+C:\Users\q\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Release\Battle Monkeys.exe
+C:\Users\q\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Release\Battle Monkeys.pdb
+E:\Battle Monkeys\bin\Release\Battle Monkeys.exe
+E:\Battle Monkeys\bin\Release\Battle Monkeys.pdb
+E:\Battle Monkeys\obj\x86\Release\Battle_Monkeys.menu.resources
+E:\Battle Monkeys\obj\x86\Release\Battle_Monkeys.mainScreen.resources
+E:\Battle Monkeys\obj\x86\Release\Battle_Monkeys.Properties.Resources.resources
+E:\Battle Monkeys\obj\x86\Release\Battle Monkeys.csproj.GenerateResource.Cache
+E:\Battle Monkeys\obj\x86\Release\Battle Monkeys.exe
+E:\Battle Monkeys\obj\x86\Release\Battle Monkeys.pdb

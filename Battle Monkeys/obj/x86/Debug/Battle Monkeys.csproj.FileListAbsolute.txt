@@ -1,0 +1,66 @@
+C:\Users\q\AppData\Local\Temporary Projects\Battle Monkeys\bin\Debug\Battle Monkeys.exe
+C:\Users\q\AppData\Local\Temporary Projects\Battle Monkeys\bin\Debug\Battle Monkeys.pdb
+C:\Users\q\AppData\Local\Temporary Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.menu.resources
+C:\Users\q\AppData\Local\Temporary Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.mainScreen.resources
+C:\Users\q\AppData\Local\Temporary Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.Properties.Resources.resources
+C:\Users\q\AppData\Local\Temporary Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csproj.GenerateResource.Cache
+C:\Users\q\AppData\Local\Temporary Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.exe
+C:\Users\q\AppData\Local\Temporary Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.pdb
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.exe
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.pdb
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.menu.resources
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.mainScreen.resources
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.Properties.Resources.resources
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csproj.GenerateResource.Cache
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\bin\Debug\Battle Monkeys.exe
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\bin\Debug\Battle Monkeys.pdb
+C:\Users\q\documents\visual studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.exe
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle Monkeys.pdb
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\bin\Debug\Battle Monkeys.exe
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\bin\Debug\Battle Monkeys.pdb
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.menu.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.mainScreen.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.Properties.Resources.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\obj\x86\Debug\Battle Monkeys.exe
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\obj\x86\Debug\Battle Monkeys.pdb
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\bin\Debug\Battle Monkeys.exe
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\bin\Debug\Battle Monkeys.pdb
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\obj\x86\Debug\Battle_Monkeys.menu.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\obj\x86\Debug\Battle_Monkeys.mainScreen.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\obj\x86\Debug\Battle_Monkeys.Properties.Resources.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Никита\Documents\Visual Studio 2010\Projects\Battle Monkeys(Pictureb)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.exe
+E:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.pdb
+E:\Battle Monkeys\bin\Debug\Battle Monkeys.exe
+E:\Battle Monkeys\bin\Debug\Battle Monkeys.pdb
+E:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csprojResolveAssemblyReference.cache
+E:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.menu.resources
+E:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.mainScreen.resources
+E:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.Properties.Resources.resources
+E:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csproj.GenerateResource.Cache
+F:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.exe
+F:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.pdb
+F:\Battle Monkeys\bin\Debug\Battle Monkeys.exe
+F:\Battle Monkeys\bin\Debug\Battle Monkeys.pdb
+F:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csprojResolveAssemblyReference.cache
+F:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.menu.resources
+F:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.mainScreen.resources
+F:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.Properties.Resources.resources
+F:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csproj.GenerateResource.Cache
+C:\Users\q\Desktop\Новая папка (2)\Battle Monkeys\obj\x86\Debug\Battle Monkeys.exe
+C:\Users\q\Desktop\Новая папка (2)\Battle Monkeys\obj\x86\Debug\Battle Monkeys.pdb
+I:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.exe
+I:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.pdb
+I:\Battle Monkeys\bin\Debug\Battle Monkeys.exe
+I:\Battle Monkeys\bin\Debug\Battle Monkeys.pdb
+I:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.mainScreen.resources
+I:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.menu.resources
+I:\Battle Monkeys\obj\x86\Debug\Battle_Monkeys.Properties.Resources.resources
+I:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csprojResolveAssemblyReference.cache
+I:\Battle Monkeys\obj\x86\Debug\Battle Monkeys.csproj.GenerateResource.Cache
