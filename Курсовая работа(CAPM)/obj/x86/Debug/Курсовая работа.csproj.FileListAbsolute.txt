@@ -1,0 +1,10 @@
+C:\Users\q\documents\visual studio 2010\Projects\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\q\documents\visual studio 2010\Projects\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\q\documents\visual studio 2010\Projects\Курсовая работа\obj\x86\Debug\Курсовая работа.csprojResolveAssemblyReference.cache
+C:\Users\q\documents\visual studio 2010\Projects\Курсовая работа\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\q\documents\visual studio 2010\Projects\Курсовая работа\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\q\documents\visual studio 2010\Projects\Курсовая работа\obj\x86\Debug\Курсовая работа.csproj.GenerateResource.Cache
+C:\Users\q\documents\visual studio 2010\Projects\Курсовая работа\obj\x86\Debug\Курсовая работа.exe
+C:\Users\q\documents\visual studio 2010\Projects\Курсовая работа\obj\x86\Debug\Курсовая работа.pdb
+C:\Users\q\Documents\Visual Studio 2010\Projects\Курсовая работа(CAPM)\obj\x86\Debug\Курсовая работа.exe
+C:\Users\q\Documents\Visual Studio 2010\Projects\Курсовая работа(CAPM)\obj\x86\Debug\Курсовая работа.pdb
