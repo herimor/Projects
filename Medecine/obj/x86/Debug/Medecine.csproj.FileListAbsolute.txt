@@ -1,0 +1,9 @@
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\obj\x86\Debug\Medecine.csproj.GenerateResource.Cache
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\bin\Debug\Medecine.accdb
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\bin\Debug\Medecine.exe.config
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\bin\Debug\Medecine.pdb
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\obj\x86\Debug\Medecine.exe
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\obj\x86\Debug\Medecine.pdb
+C:\Users\q\documents\visual studio 2010\Projects\Medecine\obj\x86\Debug\Medecine.csprojResolveAssemblyReference.cache
