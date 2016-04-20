@@ -1,0 +1,7 @@
+Petrov	Sergei	Sergeevich	2	909777	st.kommunarov 55	none	0
+Sidorov	Petr	Dmitrievich	3	909223	st.krasnaya 77	Petrov	0
+Savanova	Elena	Vladimirovna	4	909278	st.severnaya 45	Sidorov	0
+Maksimenko	Julia	Sergeevna	1	909456	st.morozova 45	Savanova	0
+Ivanov	Ivan	Ivanovich	2	909555	st.dlinnaya 55	Petrov	1
+Mishin	Oleg	Egorovich	0	909331	st.letnyaya 22	Ivanov	1
+

@@ -1,0 +1,8 @@
+c:\users\q\documents\visual studio 2013\Projects\itCompanyConsole\bin\Debug\itCompanyConsole.exe.config
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompanyConsole\bin\Debug\itCompanyConsole.exe
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompanyConsole\bin\Debug\itCompanyConsole.pdb
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompanyConsole\bin\Debug\itCompany.dll
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompanyConsole\bin\Debug\itCompany.pdb
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompanyConsole\obj\Debug\itCompanyConsole.csprojResolveAssemblyReference.cache
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompanyConsole\obj\Debug\itCompanyConsole.exe
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompanyConsole\obj\Debug\itCompanyConsole.pdb
