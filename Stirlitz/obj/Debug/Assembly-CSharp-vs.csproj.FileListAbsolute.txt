@@ -1,0 +1,13 @@
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\UnityEditor.dll
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\UnityEngine.dll
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\q\Documents\Stirlitz\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\q\Documents\Stirlitz\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\q\Documents\Stirlitz\obj\Debug\Assembly-CSharp.dll
+C:\Users\q\Documents\Stirlitz\obj\Debug\Assembly-CSharp.pdb
