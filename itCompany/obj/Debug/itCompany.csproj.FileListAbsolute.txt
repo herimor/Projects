@@ -1,0 +1,5 @@
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompany\bin\Debug\itCompany.dll
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompany\bin\Debug\itCompany.pdb
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompany\obj\Debug\itCompany.csprojResolveAssemblyReference.cache
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompany\obj\Debug\itCompany.dll
+C:\Users\q\Documents\Visual Studio 2013\Projects\itCompany\obj\Debug\itCompany.pdb
